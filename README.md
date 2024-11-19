@@ -9,4 +9,4 @@
 <br>
 <h3>Modelo mobile</h3>
 <br>
-<img src="
+<img src="https://github.com/Morais82/Wide-coverage/blob/main/img/Captura%20de%20tela%202024-11-18%20225139.png?raw=true" alt="image-for-mobile">
